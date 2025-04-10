@@ -35,21 +35,6 @@ O projeto tem como objetivo demonstrar conhecimentos em estruturação semântic
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-```
-pagina-de-noticias/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── images/
-│       └── [imagens das notícias]
-├── index.html
-└── README.md
-```
-
----
-
 ## 🚀 Como Executar Localmente
 
 1. Clone o repositório:
